@@ -12,5 +12,29 @@
       "url": "https://huggingface.co/BlinkDL/rwkv-4-world/resolve/main/RWKV-4-World-0.1B-v1-20230520-ctx4096.pth",
       "downloadUrl": "https://huggingface.co/BlinkDL/rwkv-4-world/resolve/main/RWKV-4-World-0.1B-v1-20230520-ctx4096.pth"
     }
+    {
+      "name": "RWKV-4-PilePlus-1B5-20230520-2942-486Gtokens-ctx4096.pth",
+      "desc": {
+        "en": "English 1B5",
+        "zh": "英语 1B5"
+      },
+      "size": 3030279853,
+      "SHA256": "d3ca6ee3a10b4586b2dff826e3c99dbfa28ecaa71596e82e59a1948c38029e40",
+      "lastUpdated": "2023-05-21T00:25:01",
+      "url": "https://huggingface.co/BlinkDL/rwkv-4-pileplus/resolve/main/RWKV-4-PilePlus-1B5-20230520-2942-486Gtokens-ctx4096.pth",
+      "downloadUrl": "https://huggingface.co/BlinkDL/rwkv-4-pileplus/resolve/main/RWKV-4-PilePlus-1B5-20230520-2942-486Gtokens-ctx4096.pth"
+    }
+    {
+      "name": "RWKV-4-PilePlus-3B-20230520-3147-520Gtokens-ctx4096.pth",
+      "desc": {
+        "en": "English 3B",
+        "zh": "英语 3B"
+      },
+      "size": 5969345325,
+      "SHA256": "a009e64d73a49096f164436c0a7996bf49c43e4456f251480b30998e187afc63",
+      "lastUpdated": "2023-05-21T00:27:25",
+      "url": "https://huggingface.co/BlinkDL/rwkv-4-pileplus/resolve/main/RWKV-4-PilePlus-3B-20230520-3147-520Gtokens-ctx4096.pth",
+      "downloadUrl": "https://huggingface.co/BlinkDL/rwkv-4-pileplus/resolve/main/RWKV-4-PilePlus-3B-20230520-3147-520Gtokens-ctx4096.pth"
+    }
   ]
 }
