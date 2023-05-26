@@ -11,7 +11,7 @@
       "lastUpdated": "2023-05-25T09:21:27",
       "url": "https://huggingface.co/BlinkDL/rwkv-4-world/resolve/main/RWKV-4-World-0.1B-v1-20230520-ctx4096.pth",
       "downloadUrl": "https://huggingface.co/BlinkDL/rwkv-4-world/resolve/main/RWKV-4-World-0.1B-v1-20230520-ctx4096.pth"
-    }
+    },
     {
       "name": "RWKV-4-PilePlus-1B5-20230520-2942-486Gtokens-ctx4096.pth",
       "desc": {
@@ -23,7 +23,7 @@
       "lastUpdated": "2023-05-21T00:25:01",
       "url": "https://huggingface.co/BlinkDL/rwkv-4-pileplus/resolve/main/RWKV-4-PilePlus-1B5-20230520-2942-486Gtokens-ctx4096.pth",
       "downloadUrl": "https://huggingface.co/BlinkDL/rwkv-4-pileplus/resolve/main/RWKV-4-PilePlus-1B5-20230520-2942-486Gtokens-ctx4096.pth"
-    }
+    },
     {
       "name": "RWKV-4-PilePlus-3B-20230520-3147-520Gtokens-ctx4096.pth",
       "desc": {
