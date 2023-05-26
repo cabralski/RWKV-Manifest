@@ -4,7 +4,7 @@
       "name": "RWKV-4-World-0.1B-v1-20230520-ctx4096.pth",
       "desc": {
         "en": "+100 Languages 0.1B v1",
-        "zh": "+100种语言 0.1B v11"
+        "zh": "+100种语言 0.1B v1"
       },
       "size": 385594610,
       "SHA256": "a10ef99df2a8f8a6801edf4fc92a9c49bedd63dcb900d3e5667a2136b3d671e7",
